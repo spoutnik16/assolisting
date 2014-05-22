@@ -20,7 +20,20 @@ class Region_child(models.Model):
         verbose_name_plural = _('districts')
     def __str__(self):
         return self.name
-             
+
+class Categorie(models.Model):
+    name = models.CharField(max_length = 512,
+                            verbose_name = _("categorie"))
+    parent = models.ForeignKey("self",
+                                 null = True,
+                                 blank = True)
+    class Meta:
+        verbose_name = _('categorie')
+        verbose_name_plural = _('categorie')
+    def __str__(self):
+        return self.name
+
+
 class Region_child2(models.Model):
     name = models.CharField(max_length = 512,
                             verbose_name = _("commune"))
@@ -40,21 +53,22 @@ class Association(models.Model):
     name = models.CharField(max_length = 2048,
                             help_text=_("nom officiel de l'association"),
                             verbose_name = _('nom'))
+    categorie = models.ForeignKey(Categorie)
     contact_email = models.CharField(max_length = 512,
                             verbose_name = _('email du contact'),
                             blank = True,
                             null = True)
     region_child2 = models.ForeignKey(Region_child2)
     website = models.CharField(max_length = 512,
-                            verbose_name = _('email du contact'),
+                            verbose_name = _('site web'),
                             blank = True,
                             null = True)
     direction = models.CharField(max_length = 512,
-                            verbose_name = _('email du contact'),
+                            verbose_name = _('directeur'),
                             blank = True,
                             null = True)
     president = models.CharField(max_length = 512,
-                            verbose_name = _('email du contact'),
+                            verbose_name = _('president'),
                             blank = True,
                             null = True)
     contact_name = models.CharField(max_length = 2048,
@@ -81,7 +95,7 @@ class Association(models.Model):
                             blank = True,
                             null = True)
     description = models.TextField(max_length = 51200,
-                            verbose_name = _('remarques'),
+                            verbose_name = _('description'),
                             blank = True,
                             null = True)
     remarques = models.TextField(max_length = 51200,

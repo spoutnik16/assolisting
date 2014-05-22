@@ -1,0 +1,684 @@
+%YAML 1.1
+---
+# db15162_vf.communes
+-
+  id: 1
+  commune: "Albinen"
+  district: "Leuk"
+  order: "06-01"
+-
+  id: 2
+  commune: "Anniviers"
+  district: "Sierre"
+  order: "11-01"
+-
+  id: 3
+  commune: "Arbaz"
+  district: "Sion"
+  order: "12-01"
+-
+  id: 4
+  commune: "Ardon"
+  district: "Conthey"
+  order: "02-01"
+-
+  id: 5
+  commune: "Ausserberg"
+  district: "Raron"
+  order: "09-01"
+-
+  id: 6
+  commune: "Ayent"
+  district: "Hérens"
+  order: "05-01"
+-
+  id: 7
+  commune: "Bagnes"
+  district: "Entremont"
+  order: "03-01"
+-
+  id: 8
+  commune: "Baltschieder"
+  district: "Visp"
+  order: "13-01"
+-
+  id: 9
+  commune: "Bellwald"
+  district: "Goms"
+  order: "04-01"
+-
+  id: 10
+  commune: "Betten"
+  district: "Raron"
+  order: "09-02"
+-
+  id: 11
+  commune: "Binn"
+  district: "Goms"
+  order: "04-02"
+-
+  id: 12
+  commune: "Bister"
+  district: "Raron"
+  order: "09-03"
+-
+  id: 13
+  commune: "Bitsch"
+  district: "Raron"
+  order: "09-04"
+-
+  id: 14
+  commune: "Blatten"
+  district: "Raron"
+  order: "09-05"
+-
+  id: 15
+  commune: "Blitzingen"
+  district: "Goms"
+  order: "04-03"
+-
+  id: 16
+  commune: "Bourg-Saint-Pierre"
+  district: "Entremont"
+  order: "03-02"
+-
+  id: 17
+  commune: "Bovernier"
+  district: "Martigny"
+  order: "07-01"
+-
+  id: 18
+  commune: "Brig-Glis"
+  district: "Brig"
+  order: "01-01"
+-
+  id: 19
+  commune: "Bürchen"
+  district: "Raron"
+  order: "09-06"
+-
+  id: 20
+  commune: "Chalais"
+  district: "Sierre"
+  order: "11-02"
+-
+  id: 21
+  commune: "Chamoson"
+  district: "Conthey"
+  order: "02-02"
+-
+  id: 22
+  commune: "Champéry"
+  district: "Monthey"
+  order: "07-12"
+-
+  id: 23
+  commune: "Charrat"
+  district: "Martigny"
+  order: "07-02"
+-
+  id: 24
+  commune: "Chermignon"
+  district: "Sierre"
+  order: "11-03"
+-
+  id: 25
+  commune: "Chippis"
+  district: "Sierre"
+  order: "11-04"
+-
+  id: 26
+  commune: "Collombey-Muraz"
+  district: "Monthey"
+  order: "08-01"
+-
+  id: 27
+  commune: "Collonges"
+  district: "Saint-Maurice"
+  order: "10-01"
+-
+  id: 28
+  commune: "Conthey"
+  district: "Conthey"
+  order: "02-03"
+-
+  id: 29
+  commune: "Dorénaz"
+  district: "Saint-Maurice"
+  order: "10-02"
+-
+  id: 30
+  commune: "Eggerberg"
+  district: "Brig"
+  order: "01-02"
+-
+  id: 31
+  commune: "Eischoll"
+  district: "Raron"
+  order: "09-07"
+-
+  id: 32
+  commune: "Eisten"
+  district: "Visp"
+  order: "13-02"
+-
+  id: 33
+  commune: "Embd"
+  district: "Visp"
+  order: "13-03"
+-
+  id: 34
+  commune: "Ergisch"
+  district: "Leuk"
+  order: "06-02"
+-
+  id: 35
+  commune: "Ernen"
+  district: "Goms"
+  order: "04-04"
+-
+  id: 36
+  commune: "Evionnaz"
+  district: "Saint-Maurice"
+  order: "10-03"
+-
+  id: 37
+  commune: "Evolène"
+  district: "Hérens"
+  order: "05-02"
+-
+  id: 38
+  commune: "Ferden"
+  district: "Raron"
+  order: "09-08"
+-
+  id: 39
+  commune: "Fiesch"
+  district: "Goms"
+  order: "04-05"
+-
+  id: 40
+  commune: "Fieschertal"
+  district: "Goms"
+  order: "04-06"
+-
+  id: 41
+  commune: "Finhaut"
+  district: "Saint-Maurice"
+  order: "10-04"
+-
+  id: 42
+  commune: "Fully"
+  district: "Martigny"
+  order: "07-03"
+-
+  id: 43
+  commune: "Gampel-Bratsch"
+  district: "Leuk"
+  order: "06-03"
+-
+  id: 44
+  commune: "Grächen"
+  district: "Visp"
+  order: "13-04"
+-
+  id: 45
+  commune: "Grafschaft"
+  district: "Goms"
+  order: "04-07"
+-
+  id: 46
+  commune: "Grengiols"
+  district: "Raron"
+  order: "09-09"
+-
+  id: 47
+  commune: "Grimisuat"
+  district: "Sion"
+  order: "12-02"
+-
+  id: 48
+  commune: "Grône"
+  district: "Sierre"
+  order: "11-05"
+-
+  id: 49
+  commune: "Guttet-Feschel"
+  district: "Leuk"
+  order: "06-04"
+-
+  id: 50
+  commune: "Hérémence"
+  district: "Hérens"
+  order: "05-03"
+-
+  id: 51
+  commune: "Icogne"
+  district: "Sierre"
+  order: "11-06"
+-
+  id: 52
+  commune: "Inden"
+  district: "Leuk"
+  order: "06-05"
+-
+  id: 53
+  commune: "Isérables"
+  district: "Martigny"
+  order: "07-04"
+-
+  id: 54
+  commune: "Kippel"
+  district: "Raron"
+  order: "09-10"
+-
+  id: 55
+  commune: "Kommunanz Reckingen-Gluringen/Grafschaft"
+  district: "Goms"
+  order: "04-08"
+-
+  id: 56
+  commune: "Lac Léman"
+  district: " "
+  order: "00-01"
+-
+  id: 57
+  commune: "Lalden"
+  district: "Visp"
+  order: "13-05"
+-
+  id: 58
+  commune: "Lax"
+  district: "Goms"
+  order: "04-09"
+-
+  id: 59
+  commune: "Lens"
+  district: "Sierre"
+  order: "11-07"
+-
+  id: 60
+  commune: "Les Agettes"
+  district: "Hérens"
+  order: "05-04"
+-
+  id: 61
+  commune: "Leytron"
+  district: "Martigny"
+  order: "07-05"
+-
+  id: 62
+  commune: "Liddes"
+  district: "Entremont"
+  order: "03-03"
+-
+  id: 63
+  commune: "Leuk"
+  district: "Leuk"
+  order: "06-06"
+-
+  id: 64
+  commune: "Leukerbad"
+  district: "Leuk"
+  order: "06-07"
+-
+  id: 65
+  commune: "Martigny"
+  district: "Martigny"
+  order: "07-06"
+-
+  id: 66
+  commune: "Martigny-Combe"
+  district: "Martigny"
+  order: "07-07"
+-
+  id: 67
+  commune: "Martisberg"
+  district: "Raron"
+  order: "09-11"
+-
+  id: 68
+  commune: "Massongex"
+  district: "Saint-Maurice"
+  order: "10-05"
+-
+  id: 69
+  commune: "Miège"
+  district: "Sierre"
+  order: "11-08"
+-
+  id: 70
+  commune: "Mollens"
+  district: "Sierre"
+  order: "11-09"
+-
+  id: 71
+  commune: "Mont-Noble"
+  district: "Hérens"
+  order: "05-05"
+-
+  id: 72
+  commune: "Montana"
+  district: "Sierre"
+  order: "11-10"
+-
+  id: 73
+  commune: "Monthey"
+  district: "Monthey"
+  order: "08-02"
+-
+  id: 74
+  commune: "Mörel-Filet"
+  district: "Raron"
+  order: "09-12"
+-
+  id: 75
+  commune: "Münster-Geschinen"
+  district: "Goms"
+  order: "04-10"
+-
+  id: 76
+  commune: "Naters"
+  district: "Brig"
+  order: "01-03"
+-
+  id: 77
+  commune: "Nendaz"
+  district: "Conthey"
+  order: "02-04"
+-
+  id: 78
+  commune: "Niedergesteln"
+  district: "Raron"
+  order: "09-13"
+-
+  id: 79
+  commune: "Niederwald"
+  district: "Goms"
+  order: "04-11"
+-
+  id: 80
+  commune: "Oberems"
+  district: "Leuk"
+  order: "06-08"
+-
+  id: 81
+  commune: "Obergoms"
+  district: "Goms"
+  order: "04-12"
+-
+  id: 82
+  commune: "Orsières"
+  district: "Entremont"
+  order: "03-04"
+-
+  id: 83
+  commune: "Port-Valais"
+  district: "Monthey"
+  order: "08-03"
+-
+  id: 84
+  commune: "Randa"
+  district: "Visp"
+  order: "13-06"
+-
+  id: 85
+  commune: "Randogne"
+  district: "Sierre"
+  order: "11-11"
+-
+  id: 86
+  commune: "Raron"
+  district: "Raron"
+  order: "09-14"
+-
+  id: 87
+  commune: "Reckingen-Gluringen"
+  district: "Goms"
+  order: "04-13"
+-
+  id: 88
+  commune: "Riddes"
+  district: "Martigny"
+  order: "07-08"
+-
+  id: 89
+  commune: "Ried-Brig"
+  district: "Brig"
+  order: "01-04"
+-
+  id: 90
+  commune: "Riederalp"
+  district: "Raron"
+  order: "09-15"
+-
+  id: 91
+  commune: "Saas-Almagell"
+  district: "Visp"
+  order: "13-07"
+-
+  id: 92
+  commune: "Saas-Balen"
+  district: "Visp"
+  order: "13-08"
+-
+  id: 93
+  commune: "Saas-Fee"
+  district: "Visp"
+  order: "13-09"
+-
+  id: 94
+  commune: "Saas-Grund"
+  district: "Visp"
+  order: "13-10"
+-
+  id: 95
+  commune: "Saillon"
+  district: "Martigny"
+  order: "07-09"
+-
+  id: 96
+  commune: "Saint-Gingolph"
+  district: "Monthey"
+  order: "08-04"
+-
+  id: 97
+  commune: "Saint-Léonard"
+  district: "Sierre"
+  order: "11-12"
+-
+  id: 98
+  commune: "Saint-Martin"
+  district: "Hérens"
+  order: "05-06"
+-
+  id: 99
+  commune: "Saint-Maurice"
+  district: "Saint-Maurice"
+  order: "10-06"
+-
+  id: 100
+  commune: "Saint-Nicolas"
+  district: "Visp"
+  order: "13-11"
+-
+  id: 101
+  commune: "Salgesch"
+  district: "Leuk"
+  order: "06-09"
+-
+  id: 102
+  commune: "Salvan"
+  district: "Saint-Maurice"
+  order: "10-07"
+-
+  id: 103
+  commune: "Savièse"
+  district: "Sion"
+  order: "12-03"
+-
+  id: 104
+  commune: "Saxon"
+  district: "Martigny"
+  order: "07-10"
+-
+  id: 105
+  commune: "Sembrancher"
+  district: "Entremont"
+  order: "03-05"
+-
+  id: 106
+  commune: "Sierre"
+  district: "Sierre"
+  order: "11-13"
+-
+  id: 107
+  commune: "Simplon"
+  district: "Brig"
+  order: "01-05"
+-
+  id: 108
+  commune: "Sion"
+  district: "Sion"
+  order: "12-04"
+-
+  id: 109
+  commune: "Stalden"
+  district: "Visp"
+  order: "13-12"
+-
+  id: 110
+  commune: "Staldenried"
+  district: "Visp"
+  order: "13-13"
+-
+  id: 111
+  commune: "Steg-Hohtenn"
+  district: "Raron"
+  order: "09-16"
+-
+  id: 112
+  commune: "Täsch"
+  district: "Visp"
+  order: "13-14"
+-
+  id: 113
+  commune: "Termen"
+  district: "Brig"
+  order: "01-06"
+-
+  id: 114
+  commune: "Törbel"
+  district: "Visp"
+  order: "13-15"
+-
+  id: 115
+  commune: "Turtmann-Unterems"
+  district: "Leuk"
+  order: "06-10"
+-
+  id: 116
+  commune: "Trient"
+  district: "Martigny"
+  order: "07-11"
+-
+  id: 117
+  commune: "Troistorrents"
+  district: "Monthey"
+  order: "08-05"
+-
+  id: 118
+  commune: "Unterbäch"
+  district: "Raron"
+  order: "09-17"
+-
+  id: 119
+  commune: "Val-d'Illiez"
+  district: "Monthey"
+  order: "08-06"
+-
+  id: 120
+  commune: "Varen"
+  district: "Leuk"
+  order: "06-11"
+-
+  id: 121
+  commune: "Venthône"
+  district: "Sierre"
+  order: "11-14"
+-
+  id: 122
+  commune: "Vernayaz"
+  district: "Saint-Maurice"
+  order: "10-08"
+-
+  id: 123
+  commune: "Vérossaz"
+  district: "Saint-Maurice"
+  order: "10-09"
+-
+  id: 124
+  commune: "Vétroz"
+  district: "Conthey"
+  order: "02-05"
+-
+  id: 125
+  commune: "Vex"
+  district: "Hérens"
+  order: "05-07"
+-
+  id: 126
+  commune: "Veyras"
+  district: "Sierre"
+  order: "11-15"
+-
+  id: 127
+  commune: "Veysonnaz"
+  district: "Sion"
+  order: "12-05"
+-
+  id: 128
+  commune: "Visp"
+  district: "Visp"
+  order: "13-16"
+-
+  id: 129
+  commune: "Vionnaz"
+  district: "Monthey"
+  order: "08-07"
+-
+  id: 130
+  commune: "Visperterminen"
+  district: "Visp"
+  order: "13-17"
+-
+  id: 131
+  commune: "Vollèges"
+  district: "Entremont"
+  order: "03-06"
+-
+  id: 132
+  commune: "Vouvry"
+  district: "Monthey"
+  order: "08-08"
+-
+  id: 133
+  commune: "Wiler"
+  district: "Raron"
+  order: "09-18"
+-
+  id: 134
+  commune: "Zeneggen"
+  district: "Visp"
+  order: "13-18"
+-
+  id: 135
+  commune: "Zermatt"
+  district: "Visp"
+  order: "13-19"
+-
+  id: 136
+  commune: "Zwischbergen"
+  district: "Brig"
+  order: "01-07"
+...
