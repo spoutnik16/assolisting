@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils.translation import ugettext_lazy as _
 
 # Create your models here.
 class Region(models.Model):
@@ -43,7 +44,7 @@ class Association(models.Model):
                             verbose_name = _('email du contact'),
                             blank = True,
                             null = True)
-    region_child2 = models.ForgeignKey(Region_child2)
+    region_child2 = models.ForeignKey(Region_child2)
     website = models.CharField(max_length = 512,
                             verbose_name = _('email du contact'),
                             blank = True,
@@ -60,7 +61,7 @@ class Association(models.Model):
                             help_text=_("nom de la personne de contact"),
                             verbose_name = _('nom du contact'))
     contact_phone = models.CharField(max_length = 512,
-                            verbose_name = _('numéro de téléphone de contact'),
+                            verbose_name = _('numero de telephone de contact'),
                             blank = True,
                             null = True)
     contact_email = models.CharField(max_length = 512,
@@ -79,7 +80,7 @@ class Association(models.Model):
                             verbose_name = _('code postal de contact'),
                             blank = True,
                             null = True)
-    description = models.extField(max_length = 51200,
+    description = models.TextField(max_length = 51200,
                             verbose_name = _('remarques'),
                             blank = True,
                             null = True)

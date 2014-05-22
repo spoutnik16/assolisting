@@ -3,3 +3,4 @@
 /assolisting/
 .gitignore~
 *~
+!/assolisting/settings.py
