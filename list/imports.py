@@ -30,11 +30,3 @@ class ImportDFI:
                 print('commune '+commune.name+' sauvee')
                 changes_commune = True
         return changes_commune
-            
-class PDFExport:
-    import pyPdf
-    def doexport(self):
-        for district in Region_child.objects.order_by('name'):
-            for commune in Region_child2.objects.filter(region_child=district):
-                print commune.name
-        return True
